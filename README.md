@@ -1,13 +1,11 @@
 # The-wild-oasis
 
 This project was made as a part of react learnings.
-To kick-off, just clone the project and hit
 
 ## npm-i
 
-in your terminal.
-Then,
+clone the project and use the command in your terminal.
 
 ## npm run dev
 
-to run the project.
+To run the project.
